@@ -5,7 +5,7 @@ This document contains an analysis of the Activity monitoring data dataset accor
 
 ## Loading and preprocessing the data
 
-Assuming that the R working directory contains the file *activity.csv* which is object of this analysis, the this data file should be opened with R as follows and read into a variable *df*. No further preprocessing of the dataset is necessary at this point.
+Assuming that the R working directory contains the file *activity.csv* which is the object of this analysis, this data file should be opened with R as follows and read into a variable *df*. No further preprocessing of the dataset is necessary at this point.
 
 
 ```r
